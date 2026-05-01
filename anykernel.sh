@@ -4,14 +4,16 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=Stock Lenovo Kernel (4.9.112) by viaan-thakur @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=larry
-device.name2=OP5958L1
+device.name1=QC_Reference_Phone
+device.name2=TB-X505X
+device.name3=X505X
+device.name4=X505
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
