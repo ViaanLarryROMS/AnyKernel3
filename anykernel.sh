@@ -14,7 +14,7 @@ device.name1=QC_Reference_Phone
 device.name2=TB-X505X
 device.name3=X505X
 device.name4=X505
-supported.versions=
+supported.versions=9 - 16
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
